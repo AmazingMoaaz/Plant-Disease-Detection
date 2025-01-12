@@ -269,28 +269,6 @@ CORN_MODEL=path/to/corn/model
 ```env
 REACT_APP_API_URL=http://localhost:8000/predict
 ```
-
-## 📱 Mobile Support
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://img.icons8.com/fluency/48/000000/android-os.png"/><br/>
-        Android
-      </td>
-      <td align="center">
-        <img src="https://img.icons8.com/fluency/48/000000/mac-os.png"/><br/>
-        iOS
-      </td>
-      <td align="center">
-        <img src="https://img.icons8.com/fluency/48/000000/windows-10.png"/><br/>
-        Windows
-      </td>
-    </tr>
-  </table>
-</div>
-
 ## 🤝 Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
@@ -302,31 +280,6 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🙏 Acknowledgments
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://img.icons8.com/color/48/000000/tensorflow.png"/><br/>
-        TensorFlow
-      </td>
-      <td align="center">
-        <img src="https://img.icons8.com/color/48/000000/api-settings.png"/><br/>
-        FastAPI
-      </td>
-      <td align="center">
-        <img src="https://img.icons8.com/color/48/000000/react-native.png"/><br/>
-        React
-      </td>
-      <td align="center">
-        <img src="https://img.icons8.com/color/48/000000/material-ui.png"/><br/>
-        Material-UI
-      </td>
-    </tr>
-  </table>
-</div>
 
 ---
 
