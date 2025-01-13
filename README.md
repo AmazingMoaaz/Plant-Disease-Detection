@@ -284,7 +284,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Made%20with-🌿%20and%20❤️-green?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Made%20with-🌿%20and%20❤️-blue?style=for-the-badge"/>
   <br/>
   <sub>© 2024 Plant Disease Detection Team. All rights reserved.</sub>
 </div>
